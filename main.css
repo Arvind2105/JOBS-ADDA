@@ -1,0 +1,15 @@
+.container{
+    height: 100vh;
+    background-image: url("Images/bg2.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+}
+.col-md-6:hover{
+    border-radius: 20px;
+    position: relative;
+    top: -20px;
+    right: -20px;
+
+}
